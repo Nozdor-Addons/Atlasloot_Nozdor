@@ -674,7 +674,7 @@ AtlasLoot_DewDropDown_SubTables = {
 		{ AL["Trash Mobs"], "HCHallsTrash" },
 	},
 	["TKMech"] = {
-		{ "", "TKMechCacheoftheLegionHEROIC" },
+		{ "", "TKMechCacheoftheLegion" },
 		{ "", "TKMechCapacitus" },
 		{ "", "TKMechSepethrea" },
 		{ "", "TKMechCalc" },
